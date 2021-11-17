@@ -1,8 +1,9 @@
 ### Hi there 👋
 
+<img width="150px" src="https://raw.githubusercontent.com/mutouxiaodao/iBeats/main/files/heart.svg"/></a>
+
 <!--
 **mutouxiaodao/mutouxiaodao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
